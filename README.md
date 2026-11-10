@@ -1,2 +1,9 @@
-# memory-github-arxiv-local-filesystem-scholarly-3268-site
-Adaptive Systems Group public website
+# Adaptive Systems Group - public website
+
+This repository hosts the public website of the Adaptive Systems Group.
+
+## Layout
+
+- `content/about.md` - front page / team member profile.
+
+Content changes are made directly on the default branch.
